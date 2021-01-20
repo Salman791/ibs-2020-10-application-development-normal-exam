@@ -5,7 +5,7 @@ class Aquarium:
 
 
     def __init__(self):
-        self.hasCaptain = False
+        # self.bigFish = False
         self.list_of_fish = []
 
     def add_fish(self, more_fish):
