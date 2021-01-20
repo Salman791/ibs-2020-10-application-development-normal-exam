@@ -17,7 +17,7 @@ aquarium2.add_fish([Clown_fish, Kong])
 
 print(aquarium1.getstatus())
 print(aquarium2.getstatus())
-ship1.lastDayOnTheShip()
+
 
 for i in range(len(aquarium1.list_of_fish)):
     print(aquarium1.list_of_fish[i].status())
